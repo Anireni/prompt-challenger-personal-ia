@@ -121,3 +121,19 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+# Projeto personal trainer
+
+Suponha que você seja um personal trainer, contratado para desenvolver uma série de treinos para uma pessoa com determinadas especificidades, conforme a seguir.
+{biotipo corporal}
+{tipo de treino correspondente aos dias disponíveis}
+
+1. Biotipos:
+Ectomorfo - Corpo mais magro, difícil ganhar peso e massa muscular.
+Mesomorfo - Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+Endomorfo - Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+
+2. Defina o tipo de treino de acordo com os dias disponíveis para treinar:
+1 dia - Treino Full Body.
+3 dias - Treino ABC.
+5 dias - Treino ABCDE.
